@@ -145,3 +145,49 @@ p {
     font-style: italic;
     font-family: 'Roboto', sans-serif;
 }
+
+.container-three {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    border: 100px, solid, white;
+    border-radius: 120px;
+    overflow: hidden;
+    align-items: center;
+    gap: 100px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+}
+
+.call-to-action {
+    color: #f9faf8;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+
+.sign-up-please {
+    color: #f9faf8;
+    font-family: "Roboto", sans-serif;
+}
+
+.button2{
+    background-color: #3882f6;
+    border: #f9faf8, solid 2px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
